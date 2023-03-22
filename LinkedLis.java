@@ -3,7 +3,7 @@
 // //   Dequeue lli = new LinkedList();
 // //   LinededList lli = new LinkedList();         prefead to use this line
 
-jjhj
+
 
 
 
@@ -72,7 +72,7 @@ jjhj
 
 
 
-//......peek()  poll()  get(index)  indexOf(value)  lastIndexOf(value)  getFirst()  getLast()  push(value)
+//......peek()  poll()  get(index)  indexOf(value)  lastIndexOf(value)  getFirst()  getLast()  push(value)  pop()
 
 import java.util.*;
 
