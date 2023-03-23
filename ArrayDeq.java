@@ -8,13 +8,13 @@ class ArrayDeq {
         ad1.add("naveen");
         System.out.println(ad1);
 
-        ad1.addFirst('P');
-        ad1.addLast('B');
+        ad1.addFirst('P');                  //add starting
+        ad1.addLast('B');                   //add ending
         System.out.println(ad1);
 
-        ad1.offer(232323);                  //it may be inserted or not also
+        ad1.offer(232323);                  //value may be insert or not also it is not mandatory
         System.out.println(ad1);
 
-        System.out.println(ad1.contains(23));                   //value may be insert or not also it is not mandatory
+        System.out.println(ad1.contains(23));                   
         }
 }
