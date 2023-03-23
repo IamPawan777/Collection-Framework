@@ -12,6 +12,8 @@ public class LinkedHashSe {
         lhs.add(66);
         lhs.add(77);
         lhs.add(88);
+        lhs.add(88);
+        lhs.add("Bisht ji");
 
         System.out.println(lhs);
     }

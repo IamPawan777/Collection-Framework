@@ -11,6 +11,7 @@ public class HashSe {
         hs.add(33);
         hs.add(22);
         hs.add(22);
+        hs.add("pawan");
         System.out.println(hs);
 
     }
